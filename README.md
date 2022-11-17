@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Maven and JUnit | © 2022 by giao.lang](https://github.com/vidaibao/mathutil-junit5/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/vidaibao/mathutil-junit5/actions/workflows/maven-ci.yml)
+[![CI with GitHub Actions using Maven and JUnit | © 2022 by vidaibao](https://github.com/vidaibao/mathutil-junit5/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/vidaibao/mathutil-junit5/actions/workflows/maven-ci.yml)
 
 # Welcome to Math-Util Repository
 ### You will find in this repo the following stuff:
